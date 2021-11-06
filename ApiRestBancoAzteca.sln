@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestBancoAzteca", "ApiRestBancoAzteca\ApiRestBancoAzteca.csproj", "{DEF1D10E-ECBF-40C3-8A51-9ACD6E5440DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF1D10E-ECBF-40C3-8A51-9ACD6E5440DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF1D10E-ECBF-40C3-8A51-9ACD6E5440DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF1D10E-ECBF-40C3-8A51-9ACD6E5440DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF1D10E-ECBF-40C3-8A51-9ACD6E5440DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {645DDAE4-AC32-4CEA-93C0-0D0A0C34DDB9}
+	EndGlobalSection
+EndGlobal
